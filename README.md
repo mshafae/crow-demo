@@ -12,6 +12,6 @@ make
 ```
 
 # Targets
-http://localhost/
-http://localhost/time
-http://localhost/Tuffy%20Titan
+* http://localhost/
+* http://localhost/time
+* http://localhost/Tuffy%20Titan
